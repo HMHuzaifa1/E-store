@@ -7,7 +7,7 @@ import Navbar from "react-bootstrap/Navbar";
 import NavDropdown from "react-bootstrap/NavDropdown";
 import Offcanvas from "react-bootstrap/Offcanvas";
 import { Link } from 'react-router-dom';
-import { FaOpencart } from "react-icons/fa6";
+// import { FaOpencart } from "react-icons/fa6";
 
 
 
