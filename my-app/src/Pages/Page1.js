@@ -252,10 +252,10 @@ function Page1() {
         </Row>
       </Container>
 
-      {/* <br /> */}
-      {/* <h1 className="text-2xl text-white mt-12 underline decoration-solid font-serif">
+      <br />
+      <h1 className="text-2xl text-white mt-12 underline decoration-solid font-serif">
         LOG IN
-      </h1> */}
+      </h1>
       <Form />
 
       <br />
